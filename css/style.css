@@ -1,0 +1,36 @@
+body{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+table{
+    display: flex;
+    border-radius: 5px;
+    border-collapse: collapse;
+    text-align: left;
+    justify-content: center;
+    margin:10cm;
+    align-items: center;
+    
+}
+
+
+.green {
+    background-color:rgb(44,200,147);
+    color: white;
+}
+
+th,td,tr{
+    padding: 10px;
+    border:10px
+}
+
+
+td{
+   
+    background-color:#f2f2f2;
+    color:(rgb)200,44,147;
+
+}
+
